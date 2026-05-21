@@ -34,7 +34,7 @@ testing, CI/CD, design patterns, and refactoring — not just features.
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/task-tracker.git
+git clone https://github.com/PFFantom1290/task-tracker.git
 cd task-tracker
 pip install -e ".[dev]"
 ```
