@@ -1,5 +1,7 @@
 # Personal Task Tracker CLI
+## Author
 
+Ivan Havrylenko — Software Engineering coursework, 2026
 ![CI](https://github.com/YOUR_USERNAME/task-tracker/actions/workflows/ci.yml/badge.svg)
 
 A command-line task management application built as a Software Engineering
