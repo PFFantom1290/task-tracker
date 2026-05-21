@@ -254,7 +254,9 @@ def cmd_update(args, service: TaskService, history: CommandHistory) -> None:
         print(f"✗ {e}", file=sys.stderr)
         sys.exit(1)
 
-
+"""
+my favorite one
+"""
 def cmd_delete(args, service: TaskService, history: CommandHistory) -> None:
     try:
         task = service.get_by_id(args.id)
